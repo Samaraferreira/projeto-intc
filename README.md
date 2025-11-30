@@ -7,3 +7,5 @@ Tipo: Supervisionado (Regressão / Classificação)
 Base de Dados: Student Performance Dataset (UCI)
 
 Descrição: Modelo que estime notas finais de alunos com base em fatores como estudo, absenteísmo e histórico escolar.
+
+Colab: https://colab.research.google.com/drive/1TkUdGKIwN_eGjZn1gq95-0pAtW-knSJw?usp=sharing
